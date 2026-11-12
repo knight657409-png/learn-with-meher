@@ -1,0 +1,3 @@
+# Netlify SPA Redirect Rule
+# Ensures all route requests fallback to index.html with HTTP 200 (prevents 404 on page refresh)
+/*    /index.html   200

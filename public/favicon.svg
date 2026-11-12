@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#102D4F"/>
+  <!-- Gold outer subtle ring -->
+  <rect x="3" y="3" width="58" height="58" rx="13" stroke="#D4AF37" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- Stylized Elegant Letter A & Quill nib in Gold -->
+  <path d="M32 12C28 20 22 36 19 46H26L28.5 39H35.5L38 46H45L32 12Z" fill="#FFFDF8"/>
+  <path d="M30 33L32 23L34 33H30Z" fill="#102D4F"/>
+  <!-- Quill flourish / accent in Gold -->
+  <path d="M32 12C36 17 44 24 46 32C46.8 35.2 45.5 37 43 37C40 37 36 32 32 28" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="32" cy="46" r="2" fill="#D4AF37"/>
+</svg>

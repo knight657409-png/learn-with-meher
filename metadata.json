@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia English Studio",
+  "description": "Premium English education and spoken English website with personalized tuition for SSC, CBSE, and Cambridge learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
